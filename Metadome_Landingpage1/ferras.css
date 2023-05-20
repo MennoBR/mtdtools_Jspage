@@ -89,19 +89,19 @@ body{
 .home-text .text-h4{
     font-size: 1.5rem;
     color: rgba(4, 53, 109, 0.788);
-    margin-bottom: 1rem;
+    margin-bottom: 1.5rem;
 }
 .home-text .text-h1{
     font-size: 2.5rem;
     color: rgb(4, 53, 109, 0.788);
-    margin-bottom: 1rem;
+    margin-bottom: 1.5rem;
     line-height: 4rem;
 }
 .home-text .p{
     margin-bottom: 4rem;
 }
 .home-btn{
-    padding: 15px 45px;
+    padding: 18px 50px;
     background: rgba(4, 53, 109, 0.788);
     color: gold;
     border-radius: 10px;
@@ -113,7 +113,7 @@ body{
 }
 .home-img img{
     width: 200px;
-    padding: 8px;
+    padding: 7px;
     margin-bottom: 0px;
 }
 
